@@ -1,6 +1,0 @@
-name: VillagerInvViewer
-version: '1.0'
-main: dev.akex.villagerinvviewer.VillagerInvViewer
-api-version: 1.19
-authors: [ Akex06 ]
-description: View a villager's inventory by shift right click
